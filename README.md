@@ -1,3 +1,6 @@
+*:rotating_light: This repository has been archived and is now available at
+[dracula/mutt](https://github.com/dracula/mutt) :rotating_light:*
+
 # Dracula for [Mutt](http://www.mutt.org/)
 
 > A dark theme for [Mutt](http://www.mutt.org/).
